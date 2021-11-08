@@ -38,6 +38,6 @@ if($req -eq "Yes")
             }
                 else {
 
-                    Write-Host "What??"
+                    Write-Host "Wait, What??"
                     }
                     
